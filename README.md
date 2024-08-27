@@ -2,7 +2,6 @@
 
 Hello everyone ! im Dhruv Pratap Singh 
 
-1 TOPIC of Assignment
 
 # Dataset Exploration: Iris Dataset
 
@@ -79,7 +78,7 @@ print(df.describe())
 
 This exploration of the Iris dataset provides a basic understanding of the dataset's structure and statistical properties. This step-by-step analysis is helpful for those starting out in data exploration and machine learning, laying the groundwork for more advanced techniques such as visualization, feature engineering, and modeling.
 
-2 TOPIC of Assignment
+
 
 # Salary Prediction Using Linear Regression
 
